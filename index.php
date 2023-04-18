@@ -6,6 +6,7 @@
     ?>
 
     <title>OTP</title>
+    <h1>Exemplo de OTP</h1>
     <!-- Mostra o código de autenticação gerado aleatóriamente -->
     <p>Digite o código <b><?php echo $otp; ?></b> para autenticar no sistema</p>
     <hr>
